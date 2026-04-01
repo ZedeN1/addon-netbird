@@ -1,8 +1,8 @@
 ---
 name: NetBird
-version: v0.67.3
+version: v0.67.3-route-fix
 slug: netbird
-description: Connect your devices into a single secure private WireGuard®-based mesh network.
+description: Connect your devices into a single secure private WireGuard®-based mesh network. (route-fix fork)
 url: https://github.com/netbirdio/addon-netbird
 startup: services
 panel_icon: mdi:vpn

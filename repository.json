@@ -1,5 +1,5 @@
 {
-  "name": "NetBird Home Assistant Add-ons",
+  "name": "NetBird Home Assistant Add-ons (route-fix fork)",
   "url": "https://github.com/netbirdio/addon-netbird",
   "maintainer": "Levente Farkas <lfarkas@lfarkas.org>"
 }
